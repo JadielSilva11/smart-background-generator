@@ -1,0 +1,29 @@
+@media (max-width: 900px){
+    body{
+    }
+
+    .subtitle{
+        font-size: 15px;
+    }
+
+    .main-card h2{
+        font-size: 17.1px;
+    }
+
+    .form-group textarea{
+    font-size: 11px;
+    }
+
+    .form-group .btn span{
+        font-size: 14px;
+    }
+
+    .code-preview{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .code-card{
+        width: 100%;
+    }
+}
