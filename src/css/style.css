@@ -27,10 +27,8 @@ header h1{
 }
 
 main{
-    position: relative;
     max-width: 1024px;
     margin: 0 auto;
-    z-index: 99;
 }
 
 .card{
