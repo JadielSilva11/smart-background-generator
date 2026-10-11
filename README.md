@@ -4,8 +4,8 @@ Uma ferramenta web interativa para **gerar backgrounds dinâmicos com Inteligên
 
 O projeto utiliza **HTML, CSS e JavaScript** para construir uma interface dinâmica, integrada ao **n8n** para automatizar o fluxo de geração de backgrounds com IA. Cada resultado pode ser visualizado diretamente na interface e acompanhado de seu código HTML e CSS, permitindo que o usuário experimente diferentes estilos e aplique o background gerado em seus próprios projetos.
 
-# Link para o site
-  
+## 🌐 Link para o Projeto
+[AI Background Generator](https://seusite.com)
 
 ## ✨ Funcionalidades
 
